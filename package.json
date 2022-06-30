@@ -1,0 +1,14 @@
+{
+  "name": "scrapeadslibrary",
+  "version": "1.0.0",
+  "description": "Scrapes a Facebook Ads Library page",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phillip Studinski",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^15.2.0"
+  }
+}
